@@ -20,5 +20,7 @@ django-admin startproject minedemo
 
 起動
 ```
-
-```
+python manage.py runserver
+```  
+localhostでかくにん  
+http://localhost:8000  
