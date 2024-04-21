@@ -12,6 +12,10 @@ https://prog-8.com/docs/git-env-win
 vscodeでやるから入れておく  
 https://code.visualstudio.com/download
 
+cloneしてみる
+```
+git clone https://github.com/Laki-ely/minedemo.git
+```
 
 プロジェクト作成  
 ```
